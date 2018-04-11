@@ -1,0 +1,232 @@
+#translator.name Eber
+#translator.profileid 6394801
+#display.name Português Brasileiro
+#date.format dd'/'MM'/'yyyy 'às' HH'h'mm'm'
+
+#splash.config Carregando configurações...
+
+#splash.api Testando API...
+#splash.api.invalid Chave inválida
+#splash.api.success Êxito
+
+#splash.login Logando na conta osu!
+#splash.login.invalid A autenticação falhou
+#splash.login.success Autenticado com sucesso
+
+#splash.irc Logando no Bancho IRC
+#splash.irc.invalid A autenticação falhou
+#splash.irc.success Autenticado com sucesso
+
+#splash.folder Processando sua biblioteca de beatmaps
+#splash.folder.invalid Pasta inválida
+#splash.folder.success Processado com êxito
+#splash.folder.size %s beatmaps processados.
+#splash.folder.storing Salvando lista de beatmaps...
+#spalsh.folder.online Identificando beatmap online...
+
+#splash.nodir.error Não foi possível encontrar ou definir um diretório para a aplicação. Clique em OK para selecionar um manualmente.
+#splash.nodir.title Selecionando diretório da aplicação...
+#splash.nodir.warning A aplicação será finalizada pois nenhum diretório foi selecionado. Você tem certeza disso?
+
+#splash.setup.title Configurando BeatmapStation
+#splash.setup.pagename Passo %s/%s - %s
+#splash.setup.previous < Anterior
+#splash.setup.skip Pular
+#splash.setup.next Próxima >
+#splash.setup.finish Concluir
+#splash.setup.closewarning Tem certeza que gostaria de sair da configuração? As alterações feitas até agora serão perdidas.
+#splash.setup.fatalerror Não foi possível concluir corretamente a sequência de inicialização, o programa será finalizado.
+
+#splash.setup.api.title Configurando osu! API key
+#splash.setup.api.apikey Chave: 
+#splash.setup.prompt.api.key Insira a API aqui
+#splash.setup.api.button Verificar
+#splash.setup.api.infotitle Obtendo uma chave
+
+#splash.setup.api.empty Por favor, insira um valor
+
+#splash.setup.api.one 1. Entre na página da osu! API key no site oficial: 
+#splash.setup.api.two 2. Preencha as seguintes informações:
+#splash.setup.api.three 2.1 O nome da aplicação (como exemplo eu coloquei BeatmapStation, mas você pode inserir o que desejar)
+#splash.setup.api.four 2.2 Insira alguma URL para identificar a aplicação (novamente, esta também fica a sua escolha)
+#splash.setup.api.five 3. Clique no botão para aplicar, você verá uma tela com o que foi preenchido e a sua chave:
+#splash.setup.api.six 4. Copie sua chave e cole nesta janela
+#splash.setup.api.disclaimer Sua chave será armazenada localmente em seu computador e jamais será compartilhada com outros. Caso queira saber quais tipos de informação ela pode obter, dê uma olhada em sua página oficial no GitHub:
+
+#splash.setup.folder.title Definindo a localização da pasta do jogo
+#splash.setup.folder.osufolder Localização:
+#splash.setup.folder.songsfolder Pasta de beatmaps: 
+#splash.setup.folder.path.prompt Pasta do osu!
+#splash.setup.folder.button Selecionar pasta
+#splash.setup.folder.isntosu Essa não parecer ser a pasta do jogo. Por favor, tente novamente.
+#splash.setup.folder.nosongs A pasta do osu! foi encontrada, mas a pasta de beatmaps "Songs" não foi. Por favor, indique a localização dela.
+#splash.setup.folder.infotitle Por que é necessário selecionar a pasta do jogo?
+#splash.setup.folder.info Além de mover os beatmaps baixados para a pasta Songs, o aplicativo evita baixar mapas que você já tenha para economizar tempo e espaço. Isso é feito através da leitura do arquivo "osu!.db", que funciona como um histórico de seus mapas e está localizado na pasta do jogo. Caso queira aprender mais sobre ele, vá até:
+
+#tray.exit Sair
+#tray.notask Sem nada pra fazer =/
+#tray.downloading Baixando %s
+#tray.queue %s na fila
+
+#label.length Duração
+#label.combo Combo máximo
+#label.bpm BPM (Batidas Por Minuto)
+#label.creator Criador: 
+#label.source Origem: 
+#label.date Data de aprovação: 
+#label.date.never Nunca
+#label.source.none Nenhuma
+#label.min Min.
+#label.max Max.
+
+#home.tabs.downloads Downloads
+
+#toolbar.settings Configurações
+
+#settings.osu osu!
+#settings.osu.folder Diretório do osu!
+#settings.osu.songs Pasta de músicas
+#settings.osu.install Instalar beatmaps automaticamente
+#settings.osu.api Mudar chave API
+
+#settings.general Geral
+#settings.general.language Idioma selecionado: 
+
+#settings.general.langalert Por favor reinicie o aplicativo para aplicar o idioma selecionado
+
+#download.beatmap.title Procurar beatmaps...
+#download.beatmap.button Procurar beatmaps
+
+#search.generaloptions Opções gerais
+#search.beatmapsettings Configurações do  beatmap
+#search.othersettings Outras
+#search.morefilters Outros filtros
+#search.go Pesquisar
+#search.deselect Deselecionar tudo
+
+#search.title Título
+#search.artist Artista
+#search.mapper Mapper
+#search.version Nome da dificuldade
+#search.datepicker.change Mudar...
+#search.date.start Data de aprovação (min.)
+#search.date.end Date de aprovação (max.)
+#search.result.label Exibindo %s de %s itens
+
+#search.japanese Japonês
+#search.instrumental Instrumental
+#search.english Inglês
+#search.korean Coreano
+#search.chinese Chinês
+#search.german Alemão
+#search.spanish Espanhol
+#search.italian Italiano
+#search.french Francês
+#search.other Outro
+#search.any Qualquer um
+
+#search.anime Anime
+#search.videogame Video Game
+#search.novelty Novidade
+#search.electronic Eletrônica
+#search.pop Pop
+#search.rock Rock
+#search.hiphop Hip-Hop
+#search.other Outro
+
+#search.all Todos
+#search.standard osu!Standard
+#search.taiko osu!Taiko
+#search.mania osu!Mania
+#search.ctb osu!Catch The Beat
+
+#search.unranked Não-ranqueado
+#search.ranked Ranqueado
+#search.qualified Qualificado
+#search.approved Aprovado
+#search.loved Loved
+
+#search.languages Idiomas
+#search.genres Gêneros
+#search.modes Modos de jogo
+#search.source Origem
+#search.statuses Status de aprovação
+#search.duration Duração
+#search.bpm BPM
+#search.favorites Favoritos
+#search.playcount Playcount
+
+#search.queueamount %s selecionados
+#search.download Baixar beatmaps
+
+#search.credits Os resultados das pesquisas são coletados de:
+#search.credits.high desenvolvido por
+
+#beatmap.view.open Abrir no navegador...
+#beatmap.view.installed Instalado
+
+#download.beatmap.ascending Inverter
+#download.beatmap.order.date Ordenar por data
+#download.beatmap.order.title Ordenar por título
+#download.beatmap.order.artist Ordenar por artista
+#download.beatmap.order.creator Ordenar por mapper
+#download.beatmap.order.bpm Ordenar por BPM
+#download.beatmap.order.ar Ordenar por AR
+#download.beatmap.order.od Ordenar por OD
+#download.beatmap.order.cs Ordenar por CS
+#download.beatmap.order.hp Ordenar por HP
+#download.beatmap.order.diff Ordenar por dificuldade
+#download.beatmap.order.playcount Ordenar por playcount
+#download.beatmap.order.favorites Ordenar por favoritos
+#download.beatmap.order.duration Ordenar pela duração
+
+#beatmap.creator mapeado por %s
+
+#label.noresults Sem resultados
+
+#download.downloaded Baixado
+#download.failed Falha no download
+#download.installing Instalando...
+#download.installed Instalado
+#download.cancelled Cancelado
+#download.downloading Baixando
+#download.mirror Procurando um mirror...
+#download.awaiting Aguardando...
+
+#download.placeholder Sem nada pra fazer =/
+#download.pause Pausar
+#download.install Instalar
+#download.installall Instalar tudo
+#download.removeall Limpar histórico
+#download.cancel Cancelar
+#download.preview Prévia
+#download.clear Remover
+#download.resume Resumir
+
+#download.cancelling Você realmente deseja cancelar o download?
+#download.notinstalled Você deseja instalar o beatmap antes de removê-lo? (essa ação não poderá ser desfeita)
+
+#download.pane.downloading Baixando
+#download.pane.queue Na fila
+#download.pane.finish Completos
+#download.pane.details Detalhes:
+
+#information.pane.artist Artista: 
+#information.pane.mapper Criador: 
+#information.pane.rankedon Data de aprovação: 
+#information.pane.lastupdate Última atualização: 
+#information.pane.preview Prévia
+#information.pane.browse Ver online
+#information.pane.difficulty.previous Ant.
+#information.pane.difficulty.next Próx.
+#information.pane.cs CS
+#information.pane.hp HP
+#information.pane.od OD
+#information.pane.ar AR
+#information.pane.star Dificuldade
+
+#sidepane.information Informações
+
+#others.unknown Desconhecido
+#others.complete Completo
+#others.error Não foi possível fazer download do beatmap

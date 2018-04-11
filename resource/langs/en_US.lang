@@ -1,0 +1,222 @@
+#translator.name Eber
+#translator.profileid 6394801
+#display.name English
+#date.format yyyy'/'MM'/'dd 'on' HH'h'mm'm'
+
+#splash.config Loading settings...
+
+#splash.api Testing API...
+#splash.api.success Success
+
+#splash.folder Loading your beatmap library
+#splash.folder.invalid Invalid folder
+#splash.folder.success Done
+#splash.folder.size %s beatmaps loaded.
+#splash.folder.storing Saving beatmap list...
+
+#splash.nodir.error It wasn't possible to define a directory for the application. Please select one manualy.
+#splash.nodir.title Selecting the application's directory...
+#splash.nodir.warning The application will be closed. Are you sure of that?
+
+#splash.setup.title Setting up BeatmapStation
+#splash.setup.pagename Step %s/%s - %s
+#splash.setup.previous < Previous
+#splash.setup.skip Skip
+#splash.setup.next Next >
+#splash.setup.finish Finish
+#splash.setup.closewarning Are you sure that you want to close the setup? Any change will be discarded.
+#splash.setup.fatalerror BeatmapStation will be closed, because it wasn't possible to set up the application correctly.
+
+#splash.setup.api.title Setting up osu! API key
+#splash.setup.api.apikey Key: 
+#splash.setup.prompt.api.key Insert an API key
+#splash.setup.api.button Verify
+#splash.setup.api.infotitle Getting a key
+
+#splash.setup.api.empty Please, insert a value
+
+#splash.setup.api.one 1. Open the API key page on the official site: 
+#splash.setup.api.two 2. Fill the following information:
+#splash.setup.api.three 2.1 The application's name (in the example I put BeatmapStation, but you can put anything you want)
+#splash.setup.api.four 2.2 Insert an URL to identify the application (again, you can choose anything to that one)
+#splash.setup.api.five 3. Click in the button to apply, you'll see a screen with the information which you've filled and your key:
+#splash.setup.api.six 4. Copy your key and paste it into the setup
+#splash.setup.api.disclaimer Your key will be stored locally in your computer and will never be shared with others. In case you wanna know what kind of information it can obtain, you can take a look in its GitHub page:
+
+#splash.setup.folder.title Selecting the game's folder
+#splash.setup.folder.osufolder Location:
+#splash.setup.folder.songsfolder Beatmap folder: 
+#splash.setup.folder.path.prompt osu!'s folder
+#splash.setup.folder.button Select a folder
+#splash.setup.folder.isntosu This doesn't appear to be the osu's folder. Please try again.
+#splash.setup.folder.nosongs The folder was found, but the "Songs" folder wasn't. Please select its location.
+#splash.setup.folder.infotitle Why is it necessary to select the game's folder?
+#splash.setup.folder.info In addition to moving the downloaded beatmaps to the folder "Songs", the file "osu!.db" is used to prevent beatmaps which you already have from being downloaded, since it has it type of information. You can read more about this in:
+
+#tray.exit Close
+#tray.notask Nothing to do =/
+#tray.downloading %s being downloaded
+#tray.queue %s in the queue
+
+#label.length Length
+#label.combo Max Combo
+#label.bpm BPM (Beats Per Minute)
+#label.creator Creator: 
+#label.source Source: 
+#label.date Approved Date: 
+#label.date.never Never
+#label.source.none None
+#label.min Min.
+#label.max Max.
+
+#home.tabs.downloads Downloads
+
+#toolbar.settings Settings
+
+#settings.osu osu!
+#settings.osu.folder osu! folder
+#settings.osu.songs Songs folder
+#settings.osu.install Auto-install beatmaps
+#settings.osu.api Change API key
+
+#settings.general General
+#settings.general.language Selected language:
+
+#settings.general.langalert Please, restart the application to apply the selected language.
+
+#download.beatmap.title Search beatmaps...
+#download.beatmap.button Search beatmaps
+
+#search.generaloptions General options
+#search.beatmapsettings Beatmap options
+#search.othersettings Others
+#search.morefilters More filters
+#search.go Search
+#search.deselect Unselect all
+
+#search.title Title
+#search.artist Artist
+#search.mapper Mapper
+#search.version Difficulty's name
+#search.datepicker.change Change...
+#search.date.start Approved Date (min.)
+#search.date.end Approved Date (max.)
+#search.result.label Showing %s of %s items
+
+#search.japanese Japanese
+#search.instrumental Instrumental
+#search.english English
+#search.korean Korean
+#search.chinese Chinese
+#search.german German
+#search.spanish Spanish
+#search.italian Italian
+#search.french French
+#search.other Other
+#search.any Any
+
+#search.anime Anime
+#search.videogame Video Game
+#search.novelty Novelty
+#search.electronic Electronic
+#search.pop Pop
+#search.rock Rock
+#search.hiphop Hip-Hop
+#search.other Other
+
+#search.all All
+#search.standard osu!Standard
+#search.taiko osu!Taiko
+#search.mania osu!Mania
+#search.ctb osu!Catch The Beat
+
+#search.unranked Unranked
+#search.ranked Ranked
+#search.qualified Qualified
+#search.approved Approved
+#search.loved Loved
+
+#search.languages Languages
+#search.genres Genres
+#search.modes Game modes
+#search.source Source
+#search.statuses Status
+#search.duration Length
+#search.bpm BPM
+#search.favorites Favorites
+#search.playcount Playcount
+
+#search.queueamount %s selected
+#search.download Download beatmaps
+
+#search.credits All the search results are gathered from:
+#search.credits.high made by
+
+#beatmap.view.open Open in the browser...
+#beatmap.view.installed Installed
+
+#download.beatmap.ascending Inverted
+#download.beatmap.order.date Order by date
+#download.beatmap.order.title Order by title
+#download.beatmap.order.artist Order by artist
+#download.beatmap.order.creator Order by mapper's name
+#download.beatmap.order.bpm Order by BPM
+#download.beatmap.order.ar Order by AR
+#download.beatmap.order.od Order by OD
+#download.beatmap.order.cs Order by CS
+#download.beatmap.order.hp Order by HP
+#download.beatmap.order.diff Order by difficulty
+#download.beatmap.order.playcount Order by playcount
+#download.beatmap.order.favorites Order by favorites
+#download.beatmap.order.duration Order by length
+
+#beatmap.creator created by %s
+
+#label.noresults Nothing found
+
+#download.downloaded Downloaded
+#download.failed Failed
+#download.installing Installing...
+#download.installed Installed
+#download.cancelled Cancelled
+
+#download.placeholder Nothing to do =/
+#download.pause Pause
+#download.install Install
+#download.installall Install all
+#download.removeall Clean all
+#download.cancel Cancel
+#download.preview Preview
+#download.clear Remove
+#download.resume Resume
+#download.downloading Baixando
+#download.mirror Procurando um mirror...
+#download.awaiting Awaiting...
+
+#download.cancelling Do you really wanna cancel it?
+#download.notinstalled Do you really wanna to remove the beatmap before installing it? This action can't be undone.
+
+#download.pane.downloading Downloading
+#download.pane.queue Queue
+#download.pane.finish Completed
+#download.pane.details Details:
+
+#information.pane.artist Artista: 
+#information.pane.mapper Creator: 
+#information.pane.rankedon Approved Date: 
+#information.pane.lastupdate Last update: 
+#information.pane.preview Preview
+#information.pane.browse View on the browser
+#information.pane.difficulty.previous Prev.
+#information.pane.difficulty.next Next
+#information.pane.cs CS
+#information.pane.hp HP
+#information.pane.od OD
+#information.pane.ar AR
+#information.pane.star Difficulty
+
+#sidepane.information Informations
+
+#others.unknown Unknown
+#others.complete Completed
+#others.error It wasn't possible to download this beatmap

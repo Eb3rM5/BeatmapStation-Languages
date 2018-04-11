@@ -1,0 +1,222 @@
+#translator.name DJNeonNight
+#translator.profileid 6144495
+#display.name Español
+#date.format dd'/'MM'/'yyyy 'a las' HH'h'mm'm'
+
+#splash.config Cargando ajustes...
+
+#splash.api Probando la API...
+#splash.api.success Éxito
+
+#splash.folder Cargando tu biblioteca de mapas
+#splash.folder.invalid Carpeta no válida
+#splash.folder.success Listo
+#splash.folder.size %s mapas cargados.
+#splash.folder.storing Guardando lista de mapas...
+
+#splash.nodir.error No se pudo definir una carpeta para la aplicación. Por favor, selecciona una manualmente.
+#splash.nodir.title Seleccionando la carpeta para la aplicación...
+#splash.nodir.warning La aplicación se cerrará. ¿Estás seguro?
+
+#splash.setup.title Configurando BeatmapStation
+#splash.setup.pagename Step %s/%s - %s
+#splash.setup.previous < Previo
+#splash.setup.skip Saltar
+#splash.setup.next Siguiente >
+#splash.setup.finish Finalizar
+#splash.setup.closewarning ¿Seguro que quieres cerrar la configuración? Cualquier cambio será descartado.
+#splash.setup.fatalerror BeatmapStation será cerrado porque la aplicación no se pudo configurar correctamente.
+
+#splash.setup.api.title Configurando tu API key de osu!
+#splash.setup.api.apikey Key: 
+#splash.setup.prompt.api.key Introduce una API key
+#splash.setup.api.button Verificar
+#splash.setup.api.infotitle Consiguiendo una key
+
+#splash.setup.api.empty Por favor, introduce un valor
+
+#splash.setup.api.one 1. Abre la página de la API key en el sitio oficial: 
+#splash.setup.api.two 2. Rellena la siguiente información:
+#splash.setup.api.three 2.1 El nombre de la aplicación (en el ejemplo yo puse BeatmapStation pero puedes poner lo que quieras)
+#splash.setup.api.four 2.2 Inserta una URL para identificar la aplicación (de nuevo, puedes poner lo que quieras)
+#splash.setup.api.five 3. Haz clic en el botón para aplicar, verás una pantalla con la información que rellenaste y tu key:
+#splash.setup.api.six 4. Copia tu key y pégala en la configuración
+#splash.setup.api.disclaimer Tu key será guardada localmente en tu computadora y nunca será compartida con otros. En caso que quieras saber qué tipo de información puede obtener tu key, puedes ver su página de GitHub:
+
+#splash.setup.folder.title Seleccionando la carpeta del juego
+#splash.setup.folder.osufolder Ubicación:
+#splash.setup.folder.songsfolder Carpeta de mapas: 
+#splash.setup.folder.path.prompt Carpeta de osu!
+#splash.setup.folder.button Selecciona una carpeta
+#splash.setup.folder.isntosu Esta no parece ser la carpeta de osu!, prueba de nuevo.
+#splash.setup.folder.nosongs Se encontró la carpeta pero no se pudo encontrar la carpeta "Songs". Por favor, selecciona su ubicación.
+#splash.setup.folder.infotitle ¿Por qué hace falta seleccionar la carpeta del juego?
+#splash.setup.folder.info Además de mover los mapas descargados a la carpeta "Songs", el archivo "osu!.db" es usado para evitar descargar mapas que ya tengas, ya que tiene ese tipo de información. Puedes leer más acerca de esto en:
+
+#tray.exit Cerrar
+#tray.notask Nada para hacer =/
+#tray.downloading %s siendo descargados
+#tray.queue %s en la cola
+
+#label.length Duración
+#label.combo Combo Máximo
+#label.bpm BPM (Beats Por Minuto)
+#label.creator Creador: 
+#label.source Fuente: 
+#label.date Fecha de Aprobación: 
+#label.date.never Nunca
+#label.source.none Ninguno
+#label.min Min.
+#label.max Max.
+
+#home.tabs.downloads Descargas
+
+#toolbar.settings Ajustes
+
+#settings.osu osu!
+#settings.osu.folder Carpeta de osu!
+#settings.osu.songs Carpeta Songs
+#settings.osu.install Instalar mapas automáticamente
+#settings.osu.api Cambiar la API key
+
+#settings.general General
+#settings.general.language Seleccionar idioma:
+
+#settings.general.langalert Por favor, reinicia la aplicación para aplicar el idioma seleccionado
+
+#download.beatmap.title Buscar mapas...
+#download.beatmap.button Buscar mapas
+
+#search.generaloptions Opciones generales
+#search.beatmapsettings Opciones de mapas
+#search.othersettings Otros
+#search.morefilters Más filtros
+#search.go Buscar
+#search.deselect Deseleccionar todos
+
+#search.title Título
+#search.artist Artista
+#search.mapper Mapper
+#search.version Nombre de la dificultad
+#search.datepicker.change Cambiar...
+#search.date.start Fecha de Aprobación (min.)
+#search.date.end Fecha de Aprobación (max.)
+#search.result.label Mostrando %s de %s items
+
+#search.japanese Japonés
+#search.instrumental Instrumental
+#search.english Inglés
+#search.korean Coreano
+#search.chinese Chino
+#search.german Alemán
+#search.spanish Español
+#search.italian Italiano
+#search.french Francés
+#search.other Otro
+#search.any Cualquiera
+
+#search.anime Anime
+#search.videogame Videojuego
+#search.novelty Novedad
+#search.electronic Electrónica
+#search.pop Pop
+#search.rock Rock
+#search.hiphop Hip Hop
+#search.other Otro
+
+#search.all Todos
+#search.standard osu!Standard
+#search.taiko osu!Taiko
+#search.mania osu!Mania
+#search.ctb osu!Catch The Beat
+
+#search.unranked No rankeado
+#search.ranked Rankeado
+#search.qualified Calificado
+#search.approved Aprobado
+#search.loved Amado
+
+#search.languages Idiomas
+#search.genres Géneros
+#search.modes Modos de juego
+#search.source Fuente
+#search.statuses Estado
+#search.duration Duración
+#search.bpm BPM
+#search.favorites Favoritos
+#search.playcount Veces jugado
+
+#search.queueamount %s seleccionados
+#search.download Descargar mapas
+
+#search.credits Todos los resultados de búsqueda son conseguidos de:
+#search.credits.high hecho por
+
+#beatmap.view.open Abrir en el navegador...
+#beatmap.view.installed Instalado
+
+#download.beatmap.ascending Invertido
+#download.beatmap.order.date Ordenar por fecha
+#download.beatmap.order.title Ordenar por título
+#download.beatmap.order.artist Ordenar por artista
+#download.beatmap.order.creator Ordenar por nombre del creador
+#download.beatmap.order.bpm Ordenar por BPM
+#download.beatmap.order.ar Ordenar por AR
+#download.beatmap.order.od Ordenar por OD
+#download.beatmap.order.cs Ordenar por CS
+#download.beatmap.order.hp Ordenar por HP
+#download.beatmap.order.diff Ordenar por dificultad
+#download.beatmap.order.playcount Ordenar por veces jugado
+#download.beatmap.order.favorites Ordenar por favoritos
+#download.beatmap.order.duration Ordenar por duración
+
+#beatmap.creator creado por %s
+
+#label.noresults No se encontró nada
+
+#download.downloaded Descargado
+#download.failed Fallado
+#download.installing Instalando...
+#download.installed Instalado
+#download.cancelled Cancelado
+
+#download.placeholder Nada para hacer =/
+#download.pause Pausar
+#download.install Instalar
+#download.installall Instalar todos
+#download.removeall Remover todos
+#download.cancel Cancelar
+#download.preview Previsualizar
+#download.clear Remover
+#download.resume Resumir
+#download.downloading Descargando
+#download.mirror Buscando un mirror...
+#download.awaiting Esperando...
+
+#download.cancelling ¿Realmente quieres cancelarlo?
+#download.notinstalled ¿Realmente quieres remover el mapa antes de instalarlo? Esta acción no se puede deshacer.
+
+#download.pane.downloading Descargando
+#download.pane.queue Cola
+#download.pane.finish Completado
+#download.pane.details Detalles:
+
+#information.pane.artist Artista: 
+#information.pane.mapper Creador: 
+#information.pane.rankedon Fecha de Aprobación: 
+#information.pane.lastupdate Última actualización: 
+#information.pane.preview Previsualizar
+#information.pane.browse Ver en el navegador
+#information.pane.difficulty.previous Prev.
+#information.pane.difficulty.next Sig.
+#information.pane.cs CS
+#information.pane.hp HP
+#information.pane.od OD
+#information.pane.ar AR
+#information.pane.star Dificultad
+
+#sidepane.information Información
+
+#others.unknown Desconocido
+#others.complete Completado
+#others.error No se pudo descargar este mapa
