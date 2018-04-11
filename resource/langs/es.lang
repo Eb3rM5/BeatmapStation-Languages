@@ -54,7 +54,7 @@
 #splash.setup.folder.info Además de mover los mapas descargados a la carpeta "Songs", el archivo "osu!.db" es usado para evitar descargar mapas que ya tengas, ya que tiene ese tipo de información. Puedes leer más acerca de esto en:
 
 #tray.exit Cerrar
-#tray.notask Nada para hacer =/
+#tray.notask Nada que hacer =/
 #tray.downloading %s siendo descargados
 #tray.queue %s en la cola
 
@@ -96,12 +96,12 @@
 
 #search.title Título
 #search.artist Artista
-#search.mapper Mapper
+#search.mapper Creador
 #search.version Nombre de la dificultad
 #search.datepicker.change Cambiar...
 #search.date.start Fecha de Aprobación (min.)
 #search.date.end Fecha de Aprobación (max.)
-#search.result.label Mostrando %s de %s items
+#search.result.label Mostrando %s de %s canciones
 
 #search.japanese Japonés
 #search.instrumental Instrumental
@@ -180,7 +180,7 @@
 #download.installed Instalado
 #download.cancelled Cancelado
 
-#download.placeholder Nada para hacer =/
+#download.placeholder Nada que hacer =/
 #download.pause Pausar
 #download.install Instalar
 #download.installall Instalar todos
