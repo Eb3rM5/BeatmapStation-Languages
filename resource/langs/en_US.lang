@@ -201,7 +201,7 @@
 #download.pane.finish Completed
 #download.pane.details Details:
 
-#information.pane.artist Artista: 
+#information.pane.artist Artist: 
 #information.pane.mapper Creator: 
 #information.pane.rankedon Approved Date: 
 #information.pane.lastupdate Last update: 
@@ -215,7 +215,7 @@
 #information.pane.ar AR
 #information.pane.star Difficulty
 
-#sidepane.information Informations
+#sidepane.information Information
 
 #others.unknown Unknown
 #others.complete Completed
