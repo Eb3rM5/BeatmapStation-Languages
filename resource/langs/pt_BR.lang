@@ -1,7 +1,9 @@
+#merge.timestamp 1523476980
 #translator.name Eber
 #translator.profileid 6394801
 #display.name Português Brasileiro
 #date.format dd'/'MM'/'yyyy 'às' HH'h'mm'm'
+#alert.lang Por favor reinicie o aplicativo para aplicar o idioma selecionado
 
 #splash.config Carregando configurações...
 
@@ -91,8 +93,6 @@
 
 #settings.general Geral
 #settings.general.language Idioma selecionado: 
-
-#settings.general.langalert Por favor reinicie o aplicativo para aplicar o idioma selecionado
 
 #download.beatmap.title Procurar beatmaps...
 #download.beatmap.button Procurar beatmaps
