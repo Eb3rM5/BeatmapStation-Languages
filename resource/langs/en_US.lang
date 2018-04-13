@@ -2,6 +2,7 @@
 #translator.profileid 6394801
 #display.name English
 #date.format yyyy'/'MM'/'dd 'on' HH'h'mm'm'
+#alert.lang Please, restart the application to apply the selected language.
 
 #splash.config Loading settings...
 
@@ -81,8 +82,6 @@
 
 #settings.general General
 #settings.general.language Selected language:
-
-#settings.general.langalert Please, restart the application to apply the selected language.
 
 #download.beatmap.title Search beatmaps...
 #download.beatmap.button Search beatmaps
