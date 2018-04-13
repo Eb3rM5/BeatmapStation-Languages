@@ -3,7 +3,7 @@
 #translator.profileid 6144495
 #display.name Español
 #date.format dd'/'MM'/'yyyy 'a las' HH'h'mm'm'
-#settings.general.langalert Por favor, reinicia la aplicación para aplicar el idioma seleccionado
+#alert.lang Por favor, reinicia la aplicación para aplicar el idioma seleccionado
 
 #splash.config Cargando ajustes...
 
