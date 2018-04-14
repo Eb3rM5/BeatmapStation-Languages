@@ -1,7 +1,9 @@
+#merge.timestamp 1523476980
 #translator.name DJNeonNight
 #translator.profileid 6144495
 #display.name Español
 #date.format dd'/'MM'/'yyyy 'a las' HH'h'mm'm'
+#alert.lang Por favor, reinicia la aplicación para aplicar el idioma seleccionado
 
 #splash.config Cargando ajustes...
 
@@ -81,8 +83,6 @@
 
 #settings.general General
 #settings.general.language Seleccionar idioma:
-
-#settings.general.langalert Por favor, reinicia la aplicación para aplicar el idioma seleccionado
 
 #download.beatmap.title Buscar mapas...
 #download.beatmap.button Buscar mapas
