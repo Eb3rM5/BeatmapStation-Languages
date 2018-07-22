@@ -1,4 +1,4 @@
-#merge.timestamp 1523476980
+#merge.timestamp 1532228137
 #translator.name DJNeonNight
 #translator.profileid 6144495
 #display.name Español
@@ -8,7 +8,11 @@
 #splash.config Cargando ajustes...
 
 #splash.api Probando la API...
+|splash.api.invalid Invalid key
 #splash.api.success Éxito
+
+|splash.cache Cleaning expired cache entries
+|splash.cache.verbose %s entries were cleaned
 
 #splash.folder Cargando tu biblioteca de mapas
 #splash.folder.invalid Carpeta no válida
@@ -19,6 +23,7 @@
 #splash.nodir.error No se pudo definir una carpeta para la aplicación. Por favor, selecciona una manualmente.
 #splash.nodir.title Seleccionando la carpeta para la aplicación...
 #splash.nodir.warning La aplicación se cerrará. ¿Estás seguro?
+|splash.folder.online Getting beatmap's online information
 
 #splash.setup.title Configurando BeatmapStation
 #splash.setup.pagename Step %s/%s - %s
@@ -54,6 +59,9 @@
 #splash.setup.folder.nosongs Se encontró la carpeta pero no se pudo encontrar la carpeta "Songs". Por favor, selecciona su ubicación.
 #splash.setup.folder.infotitle ¿Por qué hace falta seleccionar la carpeta del juego?
 #splash.setup.folder.info Además de mover los mapas descargados a la carpeta "Songs", el archivo "osu!.db" es usado para evitar descargar mapas que ya tengas, ya que tiene ese tipo de información. Puedes leer más acerca de esto en:
+
+|splash.update A new version is available, would you like to download it?
+|splash.update.download Go to the thread
 
 #tray.exit Cerrar
 #tray.notask Nada que hacer =/
@@ -92,8 +100,18 @@
 #search.othersettings Otros
 #search.morefilters Más filtros
 #search.go Buscar
+|search.select Select all
 #search.deselect Deseleccionar todos
 
+|search.filter Filter:
+|search.nofilter (none)
+|search.filter.new Save as a new filter
+|search.filter.rename Rename/Change color
+|search.filter.edit Edit
+|search.filter.delete Delete
+|search.filter.delete.confirmation Do you really want to delete this filter?
+|search.filter.savechanges Save changes
+|search.filter.options Options
 #search.title Título
 #search.artist Artista
 #search.mapper Creador
@@ -102,6 +120,7 @@
 #search.date.start Fecha de Aprobación (min.)
 #search.date.end Fecha de Aprobación (max.)
 #search.result.label Mostrando %s de %s canciones
+|search.result.noresult Nothing found
 
 #search.japanese Japonés
 #search.instrumental Instrumental
@@ -179,6 +198,9 @@
 #download.installing Instalando...
 #download.installed Instalado
 #download.cancelled Cancelado
+#download.downloading Descargando
+#download.mirror Buscando un mirror...
+#download.awaiting Esperando...
 
 #download.placeholder Nada que hacer =/
 #download.pause Pausar
@@ -189,9 +211,6 @@
 #download.preview Previsualizar
 #download.clear Remover
 #download.resume Resumir
-#download.downloading Descargando
-#download.mirror Buscando un mirror...
-#download.awaiting Esperando...
 
 #download.cancelling ¿Realmente quieres cancelarlo?
 #download.notinstalled ¿Realmente quieres remover el mapa antes de instalarlo? Esta acción no se puede deshacer.

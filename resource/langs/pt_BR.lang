@@ -1,4 +1,4 @@
-#merge.timestamp 1523476980
+#merge.timestamp 1532228137
 #translator.name Eber
 #translator.profileid 6394801
 #display.name Português Brasileiro
@@ -11,20 +11,15 @@
 #splash.api.invalid Chave inválida
 #splash.api.success Êxito
 
-#splash.login Logando na conta osu!
-#splash.login.invalid A autenticação falhou
-#splash.login.success Autenticado com sucesso
-
-#splash.irc Logando no Bancho IRC
-#splash.irc.invalid A autenticação falhou
-#splash.irc.success Autenticado com sucesso
+#splash.cache Apagando entradas inválidas do cache
+#splash.cache.verbose %s entradas foram apagadas
 
 #splash.folder Processando sua biblioteca de beatmaps
 #splash.folder.invalid Pasta inválida
 #splash.folder.success Processado com êxito
 #splash.folder.size %s beatmaps processados.
 #splash.folder.storing Salvando lista de beatmaps...
-#spalsh.folder.online Identificando beatmap online...
+#splash.folder.online Identificando beatmap online...
 
 #splash.nodir.error Não foi possível encontrar ou definir um diretório para a aplicação. Clique em OK para selecionar um manualmente.
 #splash.nodir.title Selecionando diretório da aplicação...
@@ -65,6 +60,9 @@
 #splash.setup.folder.infotitle Por que é necessário selecionar a pasta do jogo?
 #splash.setup.folder.info Além de mover os beatmaps baixados para a pasta Songs, o aplicativo evita baixar mapas que você já tenha para economizar tempo e espaço. Isso é feito através da leitura do arquivo "osu!.db", que funciona como um histórico de seus mapas e está localizado na pasta do jogo. Caso queira aprender mais sobre ele, vá até:
 
+#splash.update Uma nova versão está disponível, gostaria de baixá-la?
+#splash.update.download Ir ao tópico
+
 #tray.exit Sair
 #tray.notask Sem nada pra fazer =/
 #tray.downloading Baixando %s
@@ -102,16 +100,27 @@
 #search.othersettings Outras
 #search.morefilters Outros filtros
 #search.go Pesquisar
+#search.select Selecionar tudo
 #search.deselect Deselecionar tudo
 
+#search.filter Filtro:
+#search.nofilter (nenhum)
+#search.filter.new Salvar como novo filtro
+#search.filter.rename Renomear/Mudar cor
+#search.filter.edit Editar
+#search.filter.delete Deletar
+#search.filter.delete.confirmation Você realmente quer apagar esse filtro?
+#search.filter.savechanges Salvar alterações
+#search.filter.options Opções
 #search.title Título
 #search.artist Artista
 #search.mapper Mapper
-#search.version Nome da dificuldade
+#search.version Dificuldade
 #search.datepicker.change Mudar...
 #search.date.start Data de aprovação (min.)
 #search.date.end Date de aprovação (max.)
 #search.result.label Exibindo %s de %s itens
+#search.result.noresult Nada encontrado
 
 #search.japanese Japonês
 #search.instrumental Instrumental

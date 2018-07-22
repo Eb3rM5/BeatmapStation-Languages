@@ -1,4 +1,4 @@
-#merge.timestamp 1523476980
+#merge.timestamp 1532228137
 #translator.name Eber
 #translator.profileid 6394801
 #display.name English
@@ -8,13 +8,18 @@
 #splash.config Loading settings...
 
 #splash.api Testing API...
+#splash.api.invalid Invalid key
 #splash.api.success Success
+
+#splash.cache Cleaning expired cache entries
+#splash.cache.verbose %s entries were cleaned
 
 #splash.folder Loading your beatmap library
 #splash.folder.invalid Invalid folder
 #splash.folder.success Done
 #splash.folder.size %s beatmaps loaded.
 #splash.folder.storing Saving beatmap list...
+#splash.folder.online Getting beatmap's online information
 
 #splash.nodir.error It wasn't possible to define a directory for the application. Please select one manualy.
 #splash.nodir.title Selecting the application's directory...
@@ -55,6 +60,9 @@
 #splash.setup.folder.infotitle Why is it necessary to select the game's folder?
 #splash.setup.folder.info In addition to moving the downloaded beatmaps to the folder "Songs", the file "osu!.db" is used to prevent beatmaps which you already have from being downloaded, since it has it type of information. You can read more about this in:
 
+#splash.update A new version is available, would you like to download it?
+#splash.update.download Go to the thread
+
 #tray.exit Close
 #tray.notask Nothing to do =/
 #tray.downloading %s being downloaded
@@ -92,8 +100,18 @@
 #search.othersettings Others
 #search.morefilters More filters
 #search.go Search
-#search.deselect Unselect all
+#search.select Select all
+#search.deselect Deselect all
 
+#search.filter Filter:
+#search.nofilter (none)
+#search.filter.new Save as a new filter
+#search.filter.rename Rename/Change color
+#search.filter.edit Edit
+#search.filter.delete Delete
+#search.filter.delete.confirmation Do you really want to delete this filter?
+#search.filter.savechanges Save changes
+#search.filter.options Options
 #search.title Title
 #search.artist Artist
 #search.mapper Mapper
@@ -102,6 +120,7 @@
 #search.date.start Approved Date (min.)
 #search.date.end Approved Date (max.)
 #search.result.label Showing %s of %s items
+#search.result.noresult Nothing found
 
 #search.japanese Japanese
 #search.instrumental Instrumental
@@ -179,6 +198,9 @@
 #download.installing Installing...
 #download.installed Installed
 #download.cancelled Cancelled
+#download.downloading Downloading
+#download.mirror Searching a mirror...
+#download.awaiting Awaiting...
 
 #download.placeholder Nothing to do =/
 #download.pause Pause
@@ -189,9 +211,6 @@
 #download.preview Preview
 #download.clear Remove
 #download.resume Resume
-#download.downloading Baixando
-#download.mirror Procurando um mirror...
-#download.awaiting Awaiting...
 
 #download.cancelling Do you really wanna cancel it?
 #download.notinstalled Do you really wanna to remove the beatmap before installing it? This action can't be undone.
