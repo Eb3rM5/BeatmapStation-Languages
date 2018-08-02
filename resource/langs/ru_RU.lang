@@ -1,0 +1,241 @@
+#merge.timestamp 1532228137
+#translator.name i3ym
+#translator.profileid 9339395
+#display.name Русский
+#date.format yyyy'/'MM'/'dd 'on' HH'h'mm'm'
+#alert.lang Пожалуйста, перезагрузите приложение чтобы принять выбранный язык.
+
+#splash.config Загрузка настроек...
+
+#splash.api Тестирование API...
+#splash.api.invalid Неверный ключ
+#splash.api.success Успешно
+
+#splash.cache Очистка истёкших записей в кэше
+#splash.cache.verbose %s записей было очищено
+
+#splash.folder Загрузка вашей библиотеки карт
+#splash.folder.invalid Неверная папка
+#splash.folder.success Успешно
+#splash.folder.size %s карт загружено.
+#splash.folder.storing Сохранение списка карт...
+#splash.folder.online Получение онлайн информации о карте
+
+#splash.nodir.error Не вышло получить папку для приложения. Пожалуйста, выберите вручную.
+#splash.nodir.title Выбор папки приложения...
+#splash.nodir.warning Приложение будет закрыто. Вы уверены?
+
+#splash.setup.title Настройка BeatmapStation
+#splash.setup.pagename Шаг %s/%s - %s
+#splash.setup.previous < Назад
+#splash.setup.skip Пропустить
+#splash.setup.next Далее >
+#splash.setup.finish Готово
+#splash.setup.closewarning Вы уверены, что хотите закрыть настройку? Все изменения будут отменены.
+#splash.setup.fatalerror BeatmapStation будет закрыт, так как не вышло правильно настроить приложение.
+
+#splash.setup.api.title Настройка osu! API ключа
+#splash.setup.api.apikey Ключ: 
+#splash.setup.prompt.api.key Вставьте API ключ
+#splash.setup.api.button Проверить
+#splash.setup.api.infotitle Получение ключа
+
+#splash.setup.api.empty Пожалуйста, введите значение
+
+#splash.setup.api.one 1. Откройте страницу API ключа на официальном сайте: 
+#splash.setup.api.two 2. Заполните следующую информацию:
+#splash.setup.api.three 2.1 Название приложения (в примере стоит BeatmapStation, bно вы можете ввести что угодно)
+#splash.setup.api.four 2.2 Вставьте URL для идентификации приложения (опять же, можете ввести что угодно)
+#splash.setup.api.five 3. Нажмите на кнопку, вы увидите экран с информацией, которую вы заполнили, и ключ:
+#splash.setup.api.six 4. Скопируйте ключ и вставьте в поле выше
+#splash.setup.api.disclaimer Ваш ключ будет сохранён на компьютере, и никуда не будет отправляться. Для получения информации о возможностях ключа, вы можете посмотреть на GitHub странице:
+
+#splash.setup.folder.title Выбор папки игры
+#splash.setup.folder.osufolder Путь: 
+#splash.setup.folder.songsfolder Путь карт: 
+#splash.setup.folder.path.prompt Папка osu!
+#splash.setup.folder.button Выбрать папку
+#splash.setup.folder.isntosu Это не похоже на папку osu!. Попробуйте ещё раз.
+#splash.setup.folder.nosongs Папка игры была найдена, но папка "Songs" нет. Пожалуйста, выберите её путь.
+#splash.setup.folder.infotitle Зачем нужно выбрать папку игры?
+#splash.setup.folder.info В дополнение к перемещению скачанных карт в папку "Songs", файл "osu!.db" используется для предотвращения закачки уже существующих карт, так как в нём есть эта информация. Узнать подробнее:
+
+#splash.update Новая версия доступна, скачать?
+#splash.update.download Открыть тред
+
+#tray.exit Закрыть
+#tray.notask Нечего делать =/
+#tray.downloading %s скачивается
+#tray.queue %s в очереди
+
+#label.length Длина
+#label.combo Максимальное комбо
+#label.bpm BPM (Бит в минуту)
+#label.creator Создатель: 
+#label.source Источник: 
+#label.date Дата одобрения: 
+#label.date.never Никогда
+#label.source.none None
+#label.min Мин.
+#label.max Макс.
+
+#home.tabs.downloads Загрузки
+
+#toolbar.settings Настройки
+
+#settings.osu osu!
+#settings.osu.folder Папка osu!
+#settings.osu.songs Папка с картами
+#settings.osu.install Авто-установка карт
+#settings.osu.api Сменить API ключ
+
+#settings.general Общее
+#settings.general.language Выбранный язык:
+
+#download.beatmap.title Поиск карт...
+#download.beatmap.button Поиск карт
+
+#search.generaloptions Общие настройки
+#search.beatmapsettings Настройки карты
+#search.othersettings Другое
+#search.morefilters Больше фильтров
+#search.go Поиск
+#search.select Выбрать все
+#search.deselect Убрать выделение
+
+#search.filter Фильтр:
+#search.nofilter (none)
+#search.filter.new Сохранить как новый фильтр
+#search.filter.rename Переименовать/Сменить цвет
+#search.filter.edit Редактировать
+#search.filter.delete Удалить
+#search.filter.delete.confirmation Вы точно хотите удалить этот фильтр?
+#search.filter.savechanges Сохранить изменения
+#search.filter.options Настройки
+#search.title Название
+#search.artist Композитор
+#search.mapper Маппер
+#search.version Название сложности
+#search.datepicker.change Изменить...
+#search.date.start Дата подтверждения (мин.)
+#search.date.end Дата подтверждения (макс.)
+#search.result.label Показывается %s из %s
+#search.result.noresult Ничего не найдено
+
+#search.japanese Японский
+#search.instrumental Инструментал
+#search.english Английский
+#search.korean Корейский
+#search.chinese Китайский
+#search.german Немецкий
+#search.spanish Испанский
+#search.italian Итальянский
+#search.french Французский
+#search.other Другой
+#search.any Любой
+
+#search.anime Аниме
+#search.videogame Видеоигры
+#search.novelty Новое
+#search.electronic Электро
+#search.pop Поп
+#search.rock Рок
+#search.hiphop Хип-хоп
+#search.other Другой
+
+#search.all Все
+#search.standard osu!Standard
+#search.taiko osu!Taiko
+#search.mania osu!Mania
+#search.ctb osu!Catch The Beat
+
+#search.unranked Unranked
+#search.ranked Ranked
+#search.qualified Qualified
+#search.approved Approved
+#search.loved Loved
+
+#search.languages Языки
+#search.genres Жанры
+#search.modes Режимы
+#search.source Источник
+#search.statuses Статус
+#search.duration Длина
+#search.bpm BPM
+#search.favorites Избранное
+#search.playcount Количество игр
+
+#search.queueamount %s выбрано
+#search.download Скачать карты
+
+#search.credits Результаты поиска были получены из:
+#search.credits.high made by
+
+#beatmap.view.open Открыть в браузере...
+#beatmap.view.installed Установлено
+
+#download.beatmap.ascending Инверсия
+#download.beatmap.order.date Упорядочить по дате
+#download.beatmap.order.title Упорядочить по названию
+#download.beatmap.order.artist Упорядочить по композитору
+#download.beatmap.order.creator Упорядочить по нику маппера
+#download.beatmap.order.bpm Упорядочить по BPM
+#download.beatmap.order.ar Упорядочить по AR
+#download.beatmap.order.od Упорядочить по OD
+#download.beatmap.order.cs Упорядочить по CS
+#download.beatmap.order.hp Упорядочить по HP
+#download.beatmap.order.diff Упорядочить по сложности
+#download.beatmap.order.playcount Упорядочить по количеству игр
+#download.beatmap.order.favorites Упорядочить по избранному
+#download.beatmap.order.duration Упорядочить по длине
+
+#beatmap.creator создано игроком %s
+
+#label.noresults Ничего не найдено
+
+#download.downloaded Скачано
+#download.failed Провалено
+#download.installing Установка...
+#download.installed Установлено
+#download.cancelled Отменено
+#download.downloading Скачивание
+#download.mirror Поиск зеркала...
+#download.awaiting Ожидание...
+
+#download.placeholder Нечего делать =/
+#download.pause Пауза
+#download.install Установить
+#download.installall Установить все
+#download.removeall Очистить все
+#download.cancel Отменить
+#download.preview Предпросмотр
+#download.clear Удалить
+#download.resume Продолжить
+
+#download.cancelling Вы точно хотите отменить?
+#download.notinstalled Вы точно хотите убрать карту перед установкой? Это действие не может быть отменено.
+
+#download.pane.downloading Скачивание
+#download.pane.queue Очередь
+#download.pane.finish Завершено
+#download.pane.details Детали:
+
+#information.pane.artist Композитор: 
+#information.pane.mapper Создатель: 
+#information.pane.rankedon Дата подтверждения: 
+#information.pane.lastupdate Прошлое обновление: 
+#information.pane.preview Предпросмотр
+#information.pane.browse Открыть в браузере
+#information.pane.difficulty.previous Прошл.
+#information.pane.difficulty.next След.
+#information.pane.cs CS
+#information.pane.hp HP
+#information.pane.od OD
+#information.pane.ar AR
+#information.pane.star Сложность
+
+#sidepane.information Информация
+
+#others.unknown Неизвестно
+#others.complete Завершено
+#others.error Невозможно скачать карту
