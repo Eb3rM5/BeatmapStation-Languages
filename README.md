@@ -13,4 +13,4 @@ For the moment, this is going to stay just as a simple repository to make the tr
 1. The **Profile ID** is your user ID on the osu! site. It's used to link your profile on the settings screen if people wanna see who translated the language they're using.
 If you don't know what's yours, just enter in your profile on the new site and you'll be redirected to the URL containing your ID (for example: https://osu.ppy.sh/users/Eber -> https://osu.ppy.sh/users/6394801)
 
-1. Don't about the `merge.timestamp` field. It's used in the language updating system on the client and I'll be putting a new one everytime a language file is added or updated.
+1. Don't worry about the `merge.timestamp` field. It's used in the language updating system on the client and I'll be putting a new one everytime a language file is added or updated.
