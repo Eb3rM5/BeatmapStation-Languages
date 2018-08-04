@@ -1,0 +1,242 @@
+#merge.timestamp 1532228137
+#translator.name ILikeRamen
+#translator.profileid 6729149
+#display.name Deutsch
+#date.format dd'/'MM'/'yyyy 'on' HH'h'mm'm'
+#alert.lang Bitte, starte das Programm neu um die ausgewählte Sprache zu übernehmen.
+
+#splash.config Lade Einstellungen...
+
+#splash.api Teste API...
+#splash.api.invalid Ungültiger Schlüssel	
+#splash.api.success Fertig
+
+#splash.cache Bereinige veraltete cache einträge
+#splash.cache.verbose %s Veraltete Inhalte entfernt
+
+#splash.folder Laden Beatmap-Bibliothek
+#splash.folder.invalid Ungültiger Ordner
+#splash.folder.success Fertig
+#splash.folder.size %s Beatmaps geladen.
+#splash.folder.storing Beatmap-Liste speichern ...
+#splash.folder.online Beatmaps Online-Informationen abrufen
+
+#splash.nodir.error Es war nicht möglich, ein Verzeichnis für die Anwendung zu definieren. Bitte wählen Sie einen manuell aus.
+#splash.nodir.title Auswahl des Anwendungsverzeichnisses ...
+#splash.nodir.warning Das Programm wird geschlossen. Bist Du Dir sicher?
+
+#splash.setup.title BeatmapStation einrichten
+#splash.setup.pagename Seite %s/%s - %s
+#splash.setup.previous < Vorherige
+#splash.setup.skip Überspringen
+#splash.setup.next Nächste >
+#splash.setup.finish Fertig
+#splash.setup.closewarning Sind Sie sicher, dass Sie das Setup beenden möchten? Jede Änderung wird verworfen.
+#splash.setup.fatalerror BeatmapStation wird geschlossen, da es nicht möglich war, die Anwendung korrekt einzurichten.
+
+#splash.setup.api.title Einrichten von osu! API-Schlüssel
+#splash.setup.api.apikey Schlüssel: 
+#splash.setup.prompt.api.key API Schlüssel einfügen
+#splash.setup.api.button Verifizieren
+#splash.setup.api.infotitle Einen Schlüssel bekommen
+
+#splash.setup.api.empty Bitte, fügen einen Wert ein
+
+#splash.setup.api.one 1. Öffnen Sie die API-Schlüsselseite auf der offiziellen Website: 
+#splash.setup.api.two 2. Geben Sie die folgenden Informationen ein:
+#splash.setup.api.three 2.1 Der Name der Anwendung (im Beispiel habe ich BeatmapStation platziert, aber du kannst alles eingeben, was du willst)
+#splash.setup.api.four 2.2 Füge eine URL ein, um die Anwendung zu identifizieren (auch hier kannst du alles eingeben was du willst)
+#splash.setup.api.five 3. Klick auf die Schaltfläche, um es zu übernehmen. Du siehst einen Bildschirm mit den Informationen, die du ausgefüllt hast, und den Schlüssel:
+#splash.setup.api.six 4. Kopiere deinen Schlüssel und füge ihn in das Setup ein
+#splash.setup.api.disclaimer Dein Schlüssel wird lokal auf deinem Computer gespeichert und niemals mit anderen geteilt. Wenn du wissen möchten, welche Informationen du erhalten könntest, kannst du auf der GitHub-Seite nachsehen:
+
+#splash.setup.folder.title Auswählen des Spielordners
+#splash.setup.folder.osufolder Standort:
+#splash.setup.folder.songsfolder Beatmap Ordner: 
+#splash.setup.folder.path.prompt osu!'s Ornder
+#splash.setup.folder.button Wählen Sie einen Ordner
+#splash.setup.folder.isntosu Dies scheint nicht der osu! Ordner zu sein. Bitte versuche es erneut. 	
+#splash.setup.folder.nosongs Der Ordner wurde gefunden, aber der Ordner "Songs" nicht. Bitte wählen Sie seinen Standort.
+#splash.setup.folder.infotitle Warum muss der Ordner des Spiels ausgewählt werden?
+#splash.setup.folder.info Zusätzlich zum Verschieben der heruntergeladenen Beatmaps in den Ordner "Songs" wird die Datei "osu!.db" verwendet, um zu verhindern, dass Beatmaps, die du bereits heruntergeladen haben, erneut heruntergeladen werden. Erfahre mehr:
+
+#splash.update Eine neuere version ist verfügbar, möchtest du es herunterladen?
+#splash.update.download Zum Thread
+
+#tray.exit Schließen
+#tray.notask Nichts zu tun =/
+#tray.downloading %s wird heruntergeladen
+#tray.queue %s in der Warteschlange
+
+#label.length Länge
+#label.combo Max. Combo
+#label.bpm BPM (Beats Pro Minute)
+#label.creator Ersteller: 
+#label.source Quelle: 
+#label.date Approved Datum: 
+#label.date.never Niemals
+#label.source.none Nichts
+#label.min Min.
+#label.max Max.
+
+#home.tabs.downloads Downloads
+
+#toolbar.settings Einstellungen
+
+#settings.osu osu!
+#settings.osu.folder osu! Ordner
+#settings.osu.songs Songs Ordner
+#settings.osu.install Beatmaps Auto.-Installieren
+#settings.osu.api API Schlüssel ändern
+
+#settings.general Allgemein
+#settings.general.language Augewählte Sprache:
+
+#download.beatmap.title Suche Beatmaps...
+#download.beatmap.button Beatmaps Suchen
+
+#search.generaloptions Allgemeine optionen
+#search.beatmapsettings Beatmap optionen
+#search.othersettings Andere
+#search.morefilters Mehr Filter
+#search.go Suchen
+#search.select Alle auswählen
+#search.deselect Alle abwählen
+
+
+#search.filter Filter:
+#search.nofilter (kein Filter)
+#search.filter.new Als neuen Filter speichern
+#search.filter.rename Umbenennen/Farbe wächseln
+#search.filter.edit Bearbeiten
+#search.filter.delete Löschen
+#search.filter.delete.confirmation Willst du wirklich diesen Filter Löschen?
+#search.filter.savechanges Änderungen Speichern
+#search.filter.options Optionen
+#search.title Titel
+#search.artist Künstler
+#search.mapper Mapper
+#search.version Schwierigkeits Name
+#search.datepicker.change Ändern...
+#search.date.start Approved Datum (min.)
+#search.date.end Approved Datum (max.)
+#search.result.label  %s von %s Angezeigt
+#search.result.noresult Nichts gefunden
+
+#search.japanese Japanisch
+#search.instrumental Instrumental
+#search.english Englisch
+#search.korean Koreanisch
+#search.chinese Chinesisch
+#search.german Detusch
+#search.spanish Spanisch
+#search.italian Italienisch
+#search.french Französisch
+#search.other Andere
+#search.any Alle
+
+#search.anime Anime
+#search.videogame Videospiel
+#search.novelty Novelty
+#search.electronic Electronic
+#search.pop Pop
+#search.rock Rock
+#search.hiphop Hip-Hop
+#search.other Andere
+
+#search.all All
+#search.standard osu!Standard
+#search.taiko osu!Taiko
+#search.mania osu!Mania
+#search.ctb osu!Catch The Beat
+
+#search.unranked Unranked
+#search.ranked Ranked
+#search.qualified Qualifiziert
+#search.approved Approved
+#search.loved Loved
+
+#search.languages Sprachen
+#search.genres Genres
+#search.modes Spiel Modes
+#search.source Quelle
+#search.statuses Status
+#search.duration Länge
+#search.bpm BPM
+#search.favorites Favoriten
+#search.playcount Playcount
+
+#search.queueamount %s ausgewählte
+#search.download Beatmaps herunterladen
+
+#search.credits Alle suchergebnisse kommen von:
+#search.credits.high erstellt von
+
+#beatmap.view.open Im Browser ...
+#beatmap.view.installed Installiert
+
+#download.beatmap.ascending Aufsteigend
+#download.beatmap.order.date Nach Datum Sortieren
+#download.beatmap.order.title Nach Titel Sortieren
+#download.beatmap.order.artist Nach Künstler Sortieren
+#download.beatmap.order.creator Nach Mapper Sortieren
+#download.beatmap.order.bpm Order by BPM
+#download.beatmap.order.ar Order by AR
+#download.beatmap.order.od Order by OD
+#download.beatmap.order.cs Order by CS
+#download.beatmap.order.hp Order by HP
+#download.beatmap.order.diff Nach Schwierigkeit Sortieren
+#download.beatmap.order.playcount Nach Playcount Sortieren
+#download.beatmap.order.favorites Nach Favoriten Sortieren
+#download.beatmap.order.duration Nach Länge Sortieren
+
+#beatmap.creator erstellt von %s
+
+#label.noresults Nichts gefunden
+
+#download.downloaded Heruntergeladen
+#download.failed Fehlgeschlagen
+#download.installing Installiere...
+#download.installed Installiert
+#download.cancelled Abgebrochen
+#download.downloading Herunterladen
+#download.mirror Suche einen mirror...
+#download.awaiting Warten...
+
+#download.placeholder Nichts zu tun =/
+#download.pause Pause
+#download.install Installieren
+#download.installall Alle installieren
+#download.removeall Alle entfernen
+#download.cancel Abbrechen
+#download.preview Vorschau
+#download.clear Entfernen
+#download.resume Fortsetzen
+
+#download.cancelling Willst du es wirklich abbrechen?
+#download.notinstalled Willst du die Beatmap wirklich entfernen bevor du sie installierst? Diese aktion kann nicht rückgängig gemacht werden.
+
+#download.pane.downloading wird heruntergeladen
+#download.pane.queue Warteschlange
+#download.pane.finish Fertig
+#download.pane.details Details:
+
+#information.pane.artist Künstler: 
+#information.pane.mapper Ersteller: 
+#information.pane.rankedon Approved Datum: 
+#information.pane.lastupdate Letztes Update: 
+#information.pane.preview Vorschau
+#information.pane.browse Im Browser öffnen
+#information.pane.difficulty.previous Vorh.
+#information.pane.difficulty.next Nächst.
+#information.pane.cs CS
+#information.pane.hp HP
+#information.pane.od OD
+#information.pane.ar AR
+#information.pane.star Schwierigkeit
+
+#sidepane.information Information
+
+#others.unknown Unbekannt
+#others.complete Fertig
+#others.error Es war nicht möglich diese Beatmap herunter zu laden
