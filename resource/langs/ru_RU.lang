@@ -1,4 +1,4 @@
-#merge.timestamp 1533254400
+#merge.timestamp 1532228137
 #translator.name i3ym
 #translator.profileid 9339395
 #display.name Русский
@@ -36,7 +36,7 @@
 
 #splash.setup.api.title Настройка osu! API ключа
 #splash.setup.api.apikey Ключ: 
-#splash.setup.prompt.api.key Вставьте ключ API
+#splash.setup.prompt.api.key Вставьте API ключ
 #splash.setup.api.button Проверить
 #splash.setup.api.infotitle Получение ключа
 
@@ -44,7 +44,7 @@
 
 #splash.setup.api.one 1. Откройте страницу API ключа на официальном сайте: 
 #splash.setup.api.two 2. Заполните следующую информацию:
-#splash.setup.api.three 2.1 Название приложения (в примере стоит BeatmapStation, но вы можете ввести что угодно)
+#splash.setup.api.three 2.1 Название приложения (в примере стоит BeatmapStation, bно вы можете ввести что угодно)
 #splash.setup.api.four 2.2 Вставьте URL для идентификации приложения (опять же, можете ввести что угодно)
 #splash.setup.api.five 3. Нажмите на кнопку, вы увидите экран с информацией, которую вы заполнили, и ключ:
 #splash.setup.api.six 4. Скопируйте ключ и вставьте в поле выше
@@ -52,7 +52,7 @@
 
 #splash.setup.folder.title Выбор папки игры
 #splash.setup.folder.osufolder Путь: 
-#splash.setup.folder.songsfolder Папка карт: 
+#splash.setup.folder.songsfolder Путь карт: 
 #splash.setup.folder.path.prompt Папка osu!
 #splash.setup.folder.button Выбрать папку
 #splash.setup.folder.isntosu Это не похоже на папку osu!. Попробуйте ещё раз.
@@ -87,10 +87,11 @@
 #settings.osu.folder Папка osu!
 #settings.osu.songs Папка с картами
 #settings.osu.install Авто-установка карт
-#settings.osu.api Сменить ключ API
+#settings.osu.api Сменить API ключ
 
 #settings.general Общее
 #settings.general.language Выбранный язык:
+
 #download.beatmap.title Поиск карт...
 #download.beatmap.button Поиск карт
 
@@ -214,7 +215,7 @@
 #download.cancelling Вы точно хотите отменить?
 #download.notinstalled Вы точно хотите убрать карту перед установкой? Это действие не может быть отменено.
 
-#download.pane.downloading Закачка
+#download.pane.downloading Скачивание
 #download.pane.queue Очередь
 #download.pane.finish Завершено
 #download.pane.details Детали:

@@ -1,4 +1,4 @@
-#merge.timestamp 1532228137
+#merge.timestamp 1533945600
 #translator.name Eber
 #translator.profileid 6394801
 #display.name English
@@ -59,6 +59,17 @@
 #splash.setup.folder.nosongs The folder was found, but the "Songs" folder wasn't. Please select its location.
 #splash.setup.folder.infotitle Why is it necessary to select the game's folder?
 #splash.setup.folder.info In addition to moving the downloaded beatmaps to the folder "Songs", the file "osu!.db" is used to prevent beatmaps which you already have from being downloaded, since it has it type of information. You can read more about this in:
+
+#splash.exceptions.alert It looks like that there was some errors on the last execution. Would you like to report them?
+#splash.exceptions.title Reporting errors
+#splash.exceptions.version BeatmapStation's version:
+#splash.exceptions.os.name Operating System:
+#splash.exceptions.os.version Operating System version:
+#splash.exceptions.os.arch Operating System arch:
+#splash.exceptions.java.version Java's version:
+#splash.exceptions.logs %s error reporting were found:
+#splash.exceptions.tip If you wish, you can ommit informations like directories name, but please keep the error reporting in its essence.
+#splash.exceptions.message Thanks for reporting!
 
 #splash.update A new version is available, would you like to download it?
 #splash.update.download Go to the thread

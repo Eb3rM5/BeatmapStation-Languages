@@ -1,4 +1,4 @@
-#merge.timestamp 1532228137
+#merge.timestamp 1533945600
 #translator.name Eber
 #translator.profileid 6394801
 #display.name Português Brasileiro
@@ -59,6 +59,17 @@
 #splash.setup.folder.nosongs A pasta do osu! foi encontrada, mas a pasta de beatmaps "Songs" não foi. Por favor, indique a localização dela.
 #splash.setup.folder.infotitle Por que é necessário selecionar a pasta do jogo?
 #splash.setup.folder.info Além de mover os beatmaps baixados para a pasta Songs, o aplicativo evita baixar mapas que você já tenha para economizar tempo e espaço. Isso é feito através da leitura do arquivo "osu!.db", que funciona como um histórico de seus mapas e está localizado na pasta do jogo. Caso queira aprender mais sobre ele, vá até:
+
+#splash.exceptions.alert Parece que houveram erros durante a execução durante a última execução. Gostaria de reportá-los?
+#splash.exceptions.title Reportar erros
+#splash.exceptions.version Versão do BeatmapStation:
+#splash.exceptions.os.name Sistema Operacional:
+#splash.exceptions.os.version Versão do sistema:
+#splash.exceptions.os.arch Arquitetura do sistema:
+#splash.exceptions.java.version Versão do Java:
+#splash.exceptions.logs Foram encontrados %s relatórios de erros:
+#splash.exceptions.tip Se desejar, você pode editar os relatórios para omitir informações como nomes de diretórios, mas por favor mantenha a essência do relatório.
+#splash.exceptions.message Obrigado por reportar o problema!
 
 #splash.update Uma nova versão está disponível, gostaria de baixá-la?
 #splash.update.download Ir ao tópico
